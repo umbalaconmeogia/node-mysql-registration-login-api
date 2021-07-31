@@ -2,9 +2,9 @@
     "database": {
         "host": "localhost",
         "port": 3306,
-        "user": "root",
-        "password": "",
-        "database": "node-mysql-registration-login-api"
+        "user": "learn",
+        "password": "learn",
+        "database": "learn_node_login_api"
     },
-    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+    "secret": "fe81c498-2502-431a-a802-d80afa8cafd6"
 }
